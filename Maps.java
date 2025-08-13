@@ -1,2 +1,2 @@
-This is a Java file for Maps
+This is a python file for Maps
 Google maps
